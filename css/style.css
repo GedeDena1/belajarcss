@@ -53,3 +53,38 @@ p {
     margin-bottom: 20px;
     border-radius: 50%;
 }
+
+#bikinbg{
+    width: 500px;
+    height: 300px;
+    background-color: rgb(193, 186, 255);
+    color: rgb(72, 91, 107);
+    background-image: url(../image/sawahh.jpg);
+    background-size: cover;
+    border-radius: 16px;
+}
+#bikinbg h2 {
+    text-align: center;
+    padding-top: 80px;
+    font-size:xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#bikinpattren{
+    width: 500px;
+    height: 300px;
+    background-color: rgb(193, 186, 255);
+    color: rgb(72, 91, 107);
+    background-image: url(../image/gambar.png);
+    background-repeat:repeat;
+    border-radius: 16px;
+}
+#bikinpattren h2 {
+    text-align: center;
+    padding-top: 80px;
+    font-size:xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+
